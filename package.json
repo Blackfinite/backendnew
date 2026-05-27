@@ -1,0 +1,19 @@
+{
+  "name": "backendsikh",
+  "version": "1.0.0",
+  "description": "starting the backend devlopment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Chandra Shekhar Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
